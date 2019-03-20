@@ -1,0 +1,27 @@
+main {
+	width: 90%;
+	max-width:1000px;
+	margin: 20px auto;
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.75); 
+}
+main article h1 {
+	font-weight: normal;
+	margin-bottom: .5em;
+}
+main article hr {
+	margin-bottom: 1em;
+	height: 2px;
+	background: #2A4E7D;
+	border: none;
+}
+main article p {
+	margin-bottom: 1em;
+}
+
+main article img {
+	width:100px;
+	height:100px;
+	align-items: center;
+}
