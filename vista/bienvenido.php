@@ -21,7 +21,7 @@
 
     
   
-</head><title>Sena L.A.i</title>
+</head><title>Sena L.A.I</title>
 <body>
 <?php include('../vista/plantilla/header.php') ?>
 
