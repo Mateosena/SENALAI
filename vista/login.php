@@ -39,7 +39,7 @@
                     <div class="card ">
                       
                         <div class="card-header">
-                            <h2 class="text-center text-light">Inicia Sesión</h2>
+                            <h2 class="text-center text-light">Inicia Sesión 2</h2>
                         </div>
                         <div class="card-body">
                             <form class="needs-validation" id="login">
