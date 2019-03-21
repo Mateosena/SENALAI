@@ -1,0 +1,33 @@
+
+.cuadroentradas{
+    width: 98%;
+    height: auto;
+    top: 45%;
+    left: 50%;
+    position:static;
+    padding: 30px 30px;
+    /*transform: translate(-50%, -50%);*/
+  
+}
+.container-entrada{
+      bottom: 20%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+      left: 50%;
+      text-align: center;
+}
+.mision{
+    text-align: center;
+}
+.mision p{
+    text-align: left;
+}
+.mision h1{
+    color: #fc7323 !important;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
