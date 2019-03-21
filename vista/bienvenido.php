@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,19 +13,12 @@
     <link rel="stylesheet"  type="text/css" href="../vista/css/footer.css">
     <link rel="stylesheet" type="text/css" href="../vista/css/login.css">
     <link rel="stylesheet" type="text/css" href="../vista/css/bienvenido.css">
-   
 
-    
-  
 </head><title>Sena L.A.I</title>
 <body>
 <?php include('../vista/plantilla/header.php') ?>
 
-
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 <div class="cuadroentradas">
 <div class="container-entrada">
@@ -51,10 +39,7 @@
       </div>   
 
 
-<br><br>
-<br>
-
-
+<br><br><br>
 
 
     <?php include('plantilla/footer.php')?>
@@ -62,8 +47,6 @@
     <script src="../vista/js/jquery-3.3.1.min.js"></script>
     <script src="../vista/js/bootstrap.min.js"></script> 
     <script src="../vista/js/validarTipoReceta.js"></script>
-     
 
-	
 </body>
 </html>
