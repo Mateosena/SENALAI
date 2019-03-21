@@ -45,17 +45,7 @@
                 <li><a  href="" >Entrada de Elemento</a></li>
                 <li><a  href="" >Salida de Elementos</a></li>
                 <li><a  href="" >Historia de Elementos</a></li>
-                <li class="dropdown">
-                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Administrar Elemento<span class="caret"></span></a>
-                 <ul class="dropdown-menu">
-
-                <li><a  href="" >a</a></li>
-                <li><a  href="" >b</a></li>
-                <li><a  href="" >c</a></li>
                 
-
-             </ul>
-             </li>
                 
 
              </ul>
