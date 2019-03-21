@@ -62,7 +62,7 @@
 				<div class="col-xs-6 col-sm-6 col-md-6">
 					
 					  <div class="form-group">
-					  <label for="">Primer apeliido</label>
+					  <label for="">Primer Apellido</label>
                           <input type="text" name="apellido_primero" id="apellido_primero" class="form-control " placeholder="" tabindex="1" >
                       </div>
                       

@@ -42,7 +42,8 @@
                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Administrar Elemento<span class="caret"></span></a>
                  <ul class="dropdown-menu">
 
-                <li><a  href="" >Entrada de Elemento</a></li>
+                 <li> <a  href="">Agregar Elementos</a></li>
+                 <li> <a  href="" >Agregar Tipo de Elementos</a></li>
                 <li><a  href="" >Salida de Elementos</a></li>
                 <li><a  href="" >Historia de Elementos</a></li>
                 
@@ -66,7 +67,7 @@
 
              <li class="dropdown">
                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Administrar Prestamos <span class="caret"></span></a>
-                 <ul class="dropdown-menu">
+                 <ul class="dropdown-menu">                 
                  <li> <a  href="" >Prestamo Elementos</a></li>
                 <li><a  href="" >Prestamo Auditorios</a></li>
                 
